@@ -5,7 +5,7 @@ A simple TodoList built with AngularJS
 
 This is my first AngularJS App!
 
-Web Edition: !(https://github.com/Skayo/AngularJS-TodoList)
+Web Edition: https://github.com/Skayo/AngularJS-TodoList
 
 # Screenshot
 [![TodoList.png](https://s21.postimg.org/flau7kxef/Todo_List.png)]()
