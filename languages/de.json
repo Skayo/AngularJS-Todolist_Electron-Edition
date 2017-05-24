@@ -1,0 +1,42 @@
+{
+    "settings": "Einstellungen",
+    "newlist": "Neue Liste",
+    "newlisttitle": "Erstelle eine neue Liste",
+    "deletelist": "Lösche Liste",
+    "deletelisttitle": "Lösche die aktuelle Liste komplett.\nDies kann nicht rückgängig gemacht werden!",
+    "switchtolist": "Wechsle zur Liste",
+
+    "priorities": "Prioritäten",
+    "added": "hinzugefügt",
+    "removetickedtitle": "Entferne all abgehakten Aufgaben von deiner Liste.\nDies kann nicht rückgängig gemacht werden!",
+    "removeticked": "Entferne abgehakte Aufgaben",
+    "setthistodoas": "Setze diese Aufgabe als",
+
+    "addnewtodoto": "Erstelle eine neue Aufgabe zu",
+    "name": "Name",
+    "namehelp": "Der Name deiner Aufgabe",
+    "notice": "Notiz",
+    "noticehelp": "Zusätzliche Informationen zu deiner Aufgabe",
+    "priority": "Priorität",
+    "priorityselect": "Wähle die Priorität aus",
+    "priorityhelp": "Die Priorität deiner Aufgabe",
+    "add": "Hinzufügen",
+
+    "backtitle": "Gehe zurück",
+    "back": "Zurück",
+    "title": "Titel",
+    "titlehelp": "Der Titel der Seite",
+    "language": "Sprache",
+    "languagehelp": "Die Sprache der Seite. Lade die Seite neu damit die Sprache aktiv wird",
+    "dateformat": "Datums-Format",
+    "dateformathelp": "Das Format in dem ein Datum dargestellt wird",
+    "help": "Hilfe",
+    "timezone": "Zeitzone",
+    "timezonehelp": "Die Zeitzone der Seite",
+    "save": "Speichern",
+
+    "deleteconfirm": "Dies kann nicht rückgängig gemacht werden!",
+    "newlistprompt": "Titel der neuen Liste",
+    "done": "erledigt",
+    "open": "offen"
+}

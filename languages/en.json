@@ -1,0 +1,42 @@
+{
+    "settings": "Settings",
+    "newlist": "New list",
+    "newlisttitle": "Create a new list",
+    "deletelist": "Delete list",
+    "deletelisttitle": "Remove the current list completely.\nThis cannot be undone!",
+    "switchtolist": "Switch to list",
+
+    "priorities": "Priorities",
+    "added": "added",
+    "removetickedtitle": "Remove all currently ticked todos from your list. This cannot be undone!",
+    "removeticked": "Remove ticked todos",
+    "setthistodoas": "Set this todo as",
+
+    "addnewtodoto": "Add new Todo to",
+    "name": "Name",
+    "namehelp": "The name of your Todo",
+    "notice": "Notice",
+    "noticehelp": "Additional information about your Todo",
+    "priority": "Priority",
+    "priorityselect": "Select Priority",
+    "priorityhelp": "The priority of your Todo.",
+    "add": "Add",
+
+    "backtitle": "Go Back",
+    "back": "Back",
+    "title": "Title",
+    "titlehelp": "The title of the site",
+    "language": "Language",
+    "languagehelp": "The language of the site. Reload the page for the language to take affect",
+    "dateformat": "Date-Format",
+    "dateformathelp": "The date-format in wich dates will be displayed",
+    "help": "Help",
+    "timezone": "Timezone",
+    "timezonehelp": "The timezone of the site",
+    "save": "Save",
+
+    "deleteconfirm": "This cannot be undone!",
+    "newlistprompt": "Title of the new list",
+    "done": "done",
+    "open": "open"
+}

@@ -1,0 +1,192 @@
+/* Main */
+
+body {
+    color: white !important;
+}
+
+.col-centered {
+    margin: 0 auto;
+}
+
+.content {
+    margin-top: 20px;
+}
+
+.title {
+    float: left;
+}
+
+
+/* Style */
+
+.-cursor-pointer {
+    cursor: pointer;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
+
+/* Content */
+
+.content {
+    margin-bottom: 30px;
+}
+
+
+/* Tabs */
+.tabs {
+    clear: left;
+    padding-top: 10px;
+}
+
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+    background-color: transparent !important;
+    color: white;
+}
+
+/* Newlist Tab */
+
+.newlist-tab input {
+    background-color: inherit;
+    border: none;
+    color: white;
+}
+
+.newlist-tab input:focus {
+    outline-color: transparent;
+}
+
+.newlist-form {
+    height: 42px;
+}
+
+.newlist-submit {
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+
+/* Todolist */
+
+.todolist-title {
+    margin-top: 10px;
+    float: left;
+}
+
+.todolist {
+    list-style: none;
+}
+
+.todo-name {
+    margin-top: -2px;
+}
+
+.todo-date {
+    color: #636c72;
+}
+
+.add-todo {
+    margin-top: 60px;
+}
+
+
+/* Priority/Priorities */
+
+.priorities {
+    clear: left;
+}
+
+.priority--1 {
+    color: #3377ff;
+}
+
+.priority-0 {
+    color: #02d8bc;
+}
+
+.priority-1 {
+    color: #ff7700;
+}
+
+.priority-2 {
+    color: #ff3333;
+}
+
+
+/* Link-Buttons */
+
+.remove-ticked {
+    color: #ff7700 !important;
+}
+
+.remove-ticked:hover,
+.remove-ticked:active {
+    text-decoration: underline !important;
+}
+
+/* --- */
+
+.new-list {
+    color: #02d8bc !important;
+
+    clear: left;
+    float: left;
+    padding-top: 15px;
+}
+
+.new-list:hover,
+.new-list:active {
+    text-decoration: underline !important;
+}
+
+/* --- */
+
+.delete-list {
+    color: #ff3333 !important;
+
+    float: right;
+    margin-top: 15px;
+}
+
+.delete-list:hover,
+.delete-list:active {
+    text-decoration: underline !important;
+}
+
+/* --- */
+
+.settings-back {
+    color: #3377ff !important;
+    clear: left;
+    float: left;
+    padding-top: 15px;
+    font-size: 17px;
+}
+
+.settings-back:hover,
+.settings-back:active {
+    color: #2d63d0 !important;
+}
+
+
+/* Settings */
+
+.settings {
+    margin-bottom: 30px;
+}
+
+.settings-btn {
+    float: right;
+}
+
+.settings-title {
+    padding-top: 10px;
+    clear: left;
+}
+
+.reload {
+    margin: 10px;
+}

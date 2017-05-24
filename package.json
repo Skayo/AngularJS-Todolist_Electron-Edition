@@ -1,0 +1,31 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "A simple todolist built with Electron and AngularJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skayo/AngularJS-Todolist_Electron-Edition.git"
+  },
+  "keywords": [
+    "todolist",
+    "angularjs",
+    "language",
+    "angularjs-todolist",
+    "bootstrap",
+    "jquery",
+    "electron",
+    "electron-app"
+  ],
+  "author": "Skayo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skayo/AngularJS-Todolist_Electron-Edition/issues"
+  },
+  "homepage": "https://github.com/skayo/AngularJS-Todolist_Electron-Edition#readme",
+  "dependencies": {
+  }
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html ng-app="TodoList" ng-controller="BaseController">
+    <head>
+        <title>{{settings.title}}</title>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Stylesheet -->
+        <link href="css/vendors/bootstrap/bootstrap.min.css" rel="stylesheet">
+        <link href="css/vendors/fontawesome/font-awesome.min.css" rel="stylesheet">
+        <link href="css/main.css" rel="stylesheet">
+        
+        <script src="js/vendors/angular/angular.min.js" type="text/javascript"></script>
+        <script src="js/vendors/angular/angular-route.min.js" type="text/javascript"></script>
+    </head>
+    <body class="bg-inverse">
+
+        <div class="container-fluid content">
+            <div class="row">
+                <div class="col-md-8 col-centered">
+
+                    <div class="title">
+                        <h1 class="check-load">{{settings.title}}</h1>
+                    </div>
+
+                    <div ng-view>
+                    	<h1>Loading...</h1>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        
+        
+        <!-- Librarys -->
+        <script src="js/vendors/jquery/jquery.min.js" type="text/javascript"></script>
+        <script src="js/vendors/bootstrap/bootstrap.min.js" type="text/javascript"></script>
+
+        <!-- Module -->
+        <script src="js/app.js" type="text/javascript"></script>
+
+        <!-- Directives -->
+        <script src="js/directive/ngFocus.js" type="text/javascript"></script>
+
+        <!-- Factories -->
+        <script src="js/factory/lang.js" type="text/javascript"></script>
+        <script src="js/factory/storage.js" type="text/javascript"></script>
+
+        <!-- Controllers -->
+        <script src="js/controller/base.js" type="text/javascript"></script>
+        <script src="js/controller/todolist.js" type="text/javascript"></script>
+        <script src="js/controller/settings.js" type="text/javascript"></script>
+
+        <!-- Filters -->
+        <script src="js/filter/done.js" type="text/javascript"></script>
+
+    </body>
+</html>
