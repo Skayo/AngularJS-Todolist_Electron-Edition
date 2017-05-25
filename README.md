@@ -7,6 +7,13 @@ This is my first AngularJS App!
 
 Web Edition: https://github.com/Skayo/AngularJS-TodoList
 
+# Installation
+To install this electron app type:
+```
+$ npm install
+$ electron ./main.js
+```
+
 # Screenshot
 [![TodoList.png](https://s21.postimg.org/flau7kxef/Todo_List.png)]()
 
