@@ -27,5 +27,6 @@
   },
   "homepage": "https://github.com/skayo/AngularJS-Todolist_Electron-Edition#readme",
   "dependencies": {
+    "electron": "^1.6.8"
   }
 }
