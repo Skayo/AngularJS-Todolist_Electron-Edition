@@ -18,7 +18,7 @@ $ electron ./main.js
 [![TodoList.png](https://s21.postimg.org/flau7kxef/Todo_List.png)]()
 
 # Todo
-- Make tabs responsive
+- Nothing
 
 # Adding languages
 - First look into the ``languages/en.json`` and ``languages/de.json`` and copy one of them
